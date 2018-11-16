@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+.form-group{
+    margin-bottom: 20px;
+}
+main[class*="PrivatePage-content-"]{
+    margin-top:25px;
+    padding: 30px 24px;
+}
+header a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.filter-component{
+    border-bottom: 1px #ccc solid;
+    padding: 20px 10px;
+}
+}

@@ -1,0 +1,759 @@
+{
+  "assets": [
+    {
+      "units": [
+        6902
+      ],
+      "owl": "owl-93516",
+      "technology": "Peak",
+      "id": 87,
+      "name": "LNZI-UQE-76"
+    },
+    {
+      "units": [
+        6924
+      ],
+      "owl": "owl-95321",
+      "technology": "CHP",
+      "id": 193,
+      "name": "QCZD-BGY-66"
+    },
+    {
+      "units": [
+        6868,
+        6941,
+        6902
+      ],
+      "owl": "owl-85204",
+      "technology": "Hydro",
+      "id": 53,
+      "name": "MAPW-JSZ-79"
+    },
+    {
+      "units": [
+        6856,
+        6998
+      ],
+      "owl": "owl-98742",
+      "technology": "Wind",
+      "id": 201,
+      "name": "WREA-DBL-44"
+    },
+    {
+      "units": [
+        6816,
+        6902,
+        6980
+      ],
+      "owl": "owl-56958",
+      "technology": "Battery",
+      "id": 70,
+      "name": "AYHO-BOG-53"
+    },
+    {
+      "units": [
+        6816,
+        6921
+      ],
+      "owl": "owl-54169",
+      "technology": "LFG-CHP",
+      "id": 8,
+      "name": "VQNZ-TFG-42"
+    },
+    {
+      "units": [
+        6924,
+        6980,
+        6894
+      ],
+      "owl": "owl-16618",
+      "technology": "Diesel Generator",
+      "id": 196,
+      "name": "PEMX-FNM-60"
+    },
+    {
+      "units": [
+        6921,
+        6868,
+        6980
+      ],
+      "owl": "owl-91768",
+      "technology": "AD-CHP",
+      "id": 178,
+      "name": "ONRD-BEW-22"
+    },
+    {
+      "units": [
+        6894,
+        6902
+      ],
+      "owl": "owl-90019",
+      "technology": "Hydro",
+      "id": 4,
+      "name": "UQSM-KWU-14"
+    },
+    {
+      "units": [
+        6868
+      ],
+      "owl": "owl-71564",
+      "technology": "Solar",
+      "id": 79,
+      "name": "PHXF-RFF-21"
+    },
+    {
+      "units": [
+        6922,
+        6921
+      ],
+      "owl": "owl-48554",
+      "technology": "Portfolio Deal",
+      "id": 31,
+      "name": "BWRR-XOA-65"
+    },
+    {
+      "units": [
+        6894,
+        6856
+      ],
+      "owl": "owl-24985",
+      "technology": "Loadbank",
+      "id": 172,
+      "name": "NQCO-PNL-35"
+    },
+    {
+      "units": [
+        6912,
+        6941,
+        6922
+      ],
+      "owl": "owl-90129",
+      "technology": "Diesel Generator",
+      "id": 185,
+      "name": "AKIH-DUK-76"
+    },
+    {
+      "units": [
+        6902,
+        6876
+      ],
+      "owl": "owl-85183",
+      "technology": "AD-CHP",
+      "id": 39,
+      "name": "SNFO-ZLJ-49"
+    },
+    {
+      "units": [
+        6868
+      ],
+      "owl": "owl-86115",
+      "technology": "Solar",
+      "id": 195,
+      "name": "GBEU-MCR-12"
+    },
+    {
+      "units": [
+        6868,
+        6924,
+        6921
+      ],
+      "owl": "owl-41030",
+      "technology": "AD-CHP",
+      "id": 24,
+      "name": "GWTR-INX-10"
+    },
+    {
+      "units": [
+        6882
+      ],
+      "owl": "owl-60604",
+      "technology": "AD-CHP",
+      "id": 135,
+      "name": "EUTM-PFJ-65"
+    },
+    {
+      "units": [
+        6924,
+        6890,
+        6868
+      ],
+      "owl": "owl-17375",
+      "technology": "Peak",
+      "id": 130,
+      "name": "AAUX-RNJ-12"
+    },
+    {
+      "units": [
+        6921,
+        6890,
+        6902
+      ],
+      "owl": "owl-64784",
+      "technology": "Solar",
+      "id": 30,
+      "name": "KFPC-MRD-44"
+    },
+    {
+      "units": [
+        6980,
+        6922,
+        6902
+      ],
+      "owl": "owl-76801",
+      "technology": "Solar",
+      "id": 48,
+      "name": "GZLX-EGP-40"
+    },
+    {
+      "units": [
+        6941
+      ],
+      "owl": "owl-85739",
+      "technology": "Loadbank",
+      "id": 108,
+      "name": "TOBG-LWJ-62"
+    },
+    {
+      "units": [
+        6998,
+        6998
+      ],
+      "owl": "owl-12715",
+      "technology": "Import",
+      "id": 194,
+      "name": "SXVN-CWG-30"
+    },
+    {
+      "units": [
+        6941,
+        6921
+      ],
+      "owl": "owl-53095",
+      "technology": "EFW",
+      "id": 158,
+      "name": "HNDB-MWT-44"
+    },
+    {
+      "units": [
+        6941,
+        6980,
+        6921
+      ],
+      "owl": "owl-87902",
+      "technology": "Portfolio Deal",
+      "id": 91,
+      "name": "CYCJ-MJW-07"
+    },
+    {
+      "units": [
+        6902,
+        6882,
+        6876
+      ],
+      "owl": "owl-24441",
+      "technology": "Solar",
+      "id": 150,
+      "name": "ZDDY-PDV-92"
+    },
+    {
+      "units": [
+        6902
+      ],
+      "owl": "owl-31902",
+      "technology": "CHP",
+      "id": 123,
+      "name": "HYDY-KXS-58"
+    },
+    {
+      "units": [
+        6921
+      ],
+      "owl": "owl-51987",
+      "technology": "Import",
+      "id": 138,
+      "name": "MTVV-WRH-28"
+    },
+    {
+      "units": [
+        6924,
+        6894
+      ],
+      "owl": "owl-84575",
+      "technology": "Diesel Generator",
+      "id": 155,
+      "name": "QTPP-APC-94"
+    },
+    {
+      "units": [
+        6876,
+        6890,
+        6882
+      ],
+      "owl": "owl-30952",
+      "technology": "Portfolio Deal",
+      "id": 44,
+      "name": "BVQH-ZNK-56"
+    },
+    {
+      "units": [
+        6856,
+        6856
+      ],
+      "owl": "owl-25894",
+      "technology": "Import",
+      "id": 114,
+      "name": "TJER-CKA-83"
+    },
+    {
+      "units": [
+        6912,
+        6868
+      ],
+      "owl": "owl-78036",
+      "technology": "AD-CHP",
+      "id": 189,
+      "name": "BXQC-RMG-87"
+    },
+    {
+      "units": [
+        6882
+      ],
+      "owl": "owl-73336",
+      "technology": "Peak",
+      "id": 83,
+      "name": "CWYV-QLV-03"
+    },
+    {
+      "units": [
+        6921,
+        6876
+      ],
+      "owl": "owl-72248",
+      "technology": "Hydro",
+      "id": 137,
+      "name": "HRBV-GQP-83"
+    },
+    {
+      "units": [
+        6998,
+        6998
+      ],
+      "owl": "owl-66613",
+      "technology": "Portfolio Deal",
+      "id": 77,
+      "name": "IMLR-XUY-46"
+    },
+    {
+      "units": [
+        6882,
+        6882
+      ],
+      "owl": "owl-34963",
+      "technology": "Wind",
+      "id": 126,
+      "name": "NOFA-ZQG-91"
+    },
+    {
+      "units": [
+        6856,
+        6922,
+        6980
+      ],
+      "owl": "owl-64569",
+      "technology": "Diesel Generator",
+      "id": 129,
+      "name": "SHOG-ZBL-18"
+    },
+    {
+      "units": [
+        6921,
+        6856
+      ],
+      "owl": "owl-43959",
+      "technology": "Portfolio Deal",
+      "id": 117,
+      "name": "WEEW-XTE-48"
+    },
+    {
+      "units": [
+        6868,
+        6998
+      ],
+      "owl": "owl-67499",
+      "technology": "Portfolio Deal",
+      "id": 19,
+      "name": "XGSK-RFS-15"
+    },
+    {
+      "units": [
+        6922
+      ],
+      "owl": "owl-90298",
+      "technology": "AD-CHP",
+      "id": 64,
+      "name": "WFHQ-TEA-41"
+    },
+    {
+      "units": [
+        6816,
+        6921
+      ],
+      "owl": "owl-86282",
+      "technology": "CHP",
+      "id": 140,
+      "name": "XXHK-RAX-90"
+    },
+    {
+      "units": [
+        6941,
+        6922
+      ],
+      "owl": "owl-99685",
+      "technology": "Import",
+      "id": 159,
+      "name": "UMMC-YPE-28"
+    },
+    {
+      "units": [
+        6980,
+        6922,
+        6816
+      ],
+      "owl": "owl-10984",
+      "technology": "Diesel Generator",
+      "id": 186,
+      "name": "BVNU-JDD-27"
+    },
+    {
+      "units": [
+        6868
+      ],
+      "owl": "owl-18277",
+      "technology": "Loadbank",
+      "id": 17,
+      "name": "PCFN-LXP-68"
+    },
+    {
+      "units": [
+        6856,
+        6998,
+        6912
+      ],
+      "owl": "owl-93345",
+      "technology": "Solar",
+      "id": 34,
+      "name": "MTEE-DUI-99"
+    },
+    {
+      "units": [
+        6876
+      ],
+      "owl": "owl-23279",
+      "technology": "Battery",
+      "id": 12,
+      "name": "QRPA-GED-87"
+    },
+    {
+      "units": [
+        6922,
+        6856,
+        6816
+      ],
+      "owl": "owl-67742",
+      "technology": "LFG-CHP",
+      "id": 131,
+      "name": "YYUM-HLB-95"
+    },
+    {
+      "units": [
+        6922,
+        6941
+      ],
+      "owl": "owl-70418",
+      "technology": "Battery",
+      "id": 18,
+      "name": "DEEK-QHQ-26"
+    },
+    {
+      "units": [
+        6816,
+        6856
+      ],
+      "owl": "owl-41650",
+      "technology": "Battery",
+      "id": 112,
+      "name": "BFIG-FJX-62"
+    },
+    {
+      "units": [
+        6998
+      ],
+      "owl": "owl-59575",
+      "technology": "Wind",
+      "id": 9,
+      "name": "HYPI-OXZ-09"
+    },
+    {
+      "units": [
+        6868,
+        6921
+      ],
+      "owl": "owl-39052",
+      "technology": "AD-CHP",
+      "id": 187,
+      "name": "AJHU-ZNO-77"
+    },
+    {
+      "units": [
+        6998,
+        6856
+      ],
+      "owl": "owl-41527",
+      "technology": "Solar",
+      "id": 160,
+      "name": "RUUF-TZZ-77"
+    },
+    {
+      "units": [
+        6894
+      ],
+      "owl": "owl-45052",
+      "technology": "Portfolio Deal",
+      "id": 15,
+      "name": "HDKY-LNO-02"
+    },
+    {
+      "units": [
+        6882,
+        6894,
+        6922
+      ],
+      "owl": "owl-95675",
+      "technology": "Hydro",
+      "id": 13,
+      "name": "KAOU-MAK-19"
+    },
+    {
+      "units": [
+        6890
+      ],
+      "owl": "owl-14147",
+      "technology": "AD-CHP",
+      "id": 102,
+      "name": "WVVJ-LOF-13"
+    },
+    {
+      "units": [
+        6882,
+        6980,
+        6890
+      ],
+      "owl": "owl-43410",
+      "technology": "Battery",
+      "id": 84,
+      "name": "RRDG-MJA-06"
+    },
+    {
+      "units": [
+        6816,
+        6922
+      ],
+      "owl": "owl-74939",
+      "technology": "CHP",
+      "id": 46,
+      "name": "EIAP-HEY-23"
+    },
+    {
+      "units": [
+        6998,
+        6876,
+        6921
+      ],
+      "owl": "owl-95385",
+      "technology": "Diesel Generator",
+      "id": 95,
+      "name": "QDKP-XZU-80"
+    },
+    {
+      "units": [
+        6921,
+        6868
+      ],
+      "owl": "owl-22110",
+      "technology": "Import",
+      "id": 118,
+      "name": "ZZNO-HPO-77"
+    },
+    {
+      "units": [
+        6890,
+        6856,
+        6921
+      ],
+      "owl": "owl-49250",
+      "technology": "CHP",
+      "id": 115,
+      "name": "BSRO-FJH-42"
+    },
+    {
+      "units": [
+        6882
+      ],
+      "owl": "owl-14825",
+      "technology": "LFG-CHP",
+      "id": 82,
+      "name": "GSSN-PHU-99"
+    },
+    {
+      "units": [
+        6882,
+        6924,
+        6912
+      ],
+      "owl": "owl-20210",
+      "technology": "Solar",
+      "id": 179,
+      "name": "VQED-VLK-50"
+    },
+    {
+      "units": [
+        6882
+      ],
+      "owl": "owl-98356",
+      "technology": "Hydro",
+      "id": 11,
+      "name": "IFBK-TRK-57"
+    },
+    {
+      "units": [
+        6980,
+        6912
+      ],
+      "owl": "owl-37719",
+      "technology": "Hydro",
+      "id": 69,
+      "name": "JHYV-TKB-71"
+    },
+    {
+      "units": [
+        6816,
+        6856
+      ],
+      "owl": "owl-93248",
+      "technology": "AD-CHP",
+      "id": 175,
+      "name": "THBT-LZV-32"
+    },
+    {
+      "units": [
+        6941,
+        6894,
+        6894
+      ],
+      "owl": "owl-59425",
+      "technology": "Wind",
+      "id": 75,
+      "name": "TWEW-DYH-56"
+    },
+    {
+      "units": [
+        6902,
+        6868
+      ],
+      "owl": "owl-34540",
+      "technology": "Hydro",
+      "id": 132,
+      "name": "TLUB-ZIW-32"
+    },
+    {
+      "units": [
+        6922,
+        6894,
+        6980
+      ],
+      "owl": "owl-60496",
+      "technology": "Battery",
+      "id": 89,
+      "name": "YLUU-ZVR-17"
+    },
+    {
+      "units": [
+        6882,
+        6941,
+        6921
+      ],
+      "owl": "owl-27881",
+      "technology": "Portfolio Deal",
+      "id": 198,
+      "name": "XOHC-FLW-56"
+    },
+    {
+      "units": [
+        6941
+      ],
+      "owl": "owl-49275",
+      "technology": "Battery",
+      "id": 174,
+      "name": "IKZG-QGK-12"
+    },
+    {
+      "units": [
+        6856,
+        6998
+      ],
+      "owl": "owl-38607",
+      "technology": "CHP",
+      "id": 153,
+      "name": "KIGY-URX-09"
+    }
+  ],
+  "filters": {
+    "units": [
+      6921,
+      6924,
+      6894,
+      6902,
+      6882,
+      6922,
+      6912,
+      6980,
+      6890,
+      6941,
+      6876,
+      6816,
+      6998,
+      6856,
+      6868
+    ],
+    "contracts": [
+      "TRIAD",
+      "Dispatch",
+      "PPA - Export",
+      "FFR Dynamic - Battery",
+      "FFR Dynamic - High Slow",
+      "FFR Dynamic - Low Slow"
+    ],
+    "technologies": [
+      "AD-CHP",
+      "Battery",
+      "CHP",
+      "Diesel Generator",
+      "EFW",
+      "Hydro",
+      "Import",
+      "LFG-CHP",
+      "Loadbank",
+      "Peak",
+      "Portfolio Deal",
+      "Solar",
+      "Wind"
+    ],
+    "sites": [
+      "Anslow Business Park",
+      "Barnsley",
+      "Cenin Renewables",
+      "Dawn Meats",
+      "Floods Ferry"
+    ]
+  }
+}
