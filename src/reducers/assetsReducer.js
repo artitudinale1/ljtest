@@ -23,19 +23,21 @@ function toggleAssetVisibility(assetItem, filters) {
 
 function toggleAssetVisibility(assetItem, filters) {
   for (let key in assetItem.asset.asset) {
-    filters["option"].map(o => {
-      console.log(o);
-      console.log(assetItem.asset.asset[key]);
-      if (
-        filters["label"].toLowerCase() == key.toLowerCase() &&
-        o.toLowerCase() != assetItem.asset.asset[key].toLowerCase()
-      )
-        // console.log(assetItem.asset.asset[key].toLowerCase());
-        return { ...assetItem, visability: false };
-    });
+    if (filters["label"].toLowerCase() == key.toLowerCase()) {
+      for (let j in filters["option"]) {
+        console.log(filters["option"][j]);
+        //  console.log(assetItem.asset.asset[key]);
+        if (
+          filters["option"][j].toLowerCase() !=
+          assetItem.asset.asset[key].toLowerCase()
+        )
+          // console.log(assetItem.asset.asset[key].toLowerCase());
+          return { ...assetItem, visability: false, filters };
+      }
+    }
   }
 
-  return { ...assetItem, visability: true };
+  return { ...assetItem, visability: true, filters };
 }
 
 export function assets(state = initialState, action) {
@@ -57,7 +59,11 @@ export function assets(state = initialState, action) {
         assets: state.assets.map(a => toggleAssetVisibility(a, action.filter))
       };
     case assetsConstants.ASSETS_FILTER_REMOVED:
-      return state;
+      return {
+        ...state,
+        filter: action.filter,
+        assets: state.assets.map(a => toggleAssetVisibility(a, action.filter))
+      };
     default:
       return state;
   }
